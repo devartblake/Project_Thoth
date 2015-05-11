@@ -1,0 +1,5 @@
+﻿# robotstxt.org/
+
+user-agent: *
+
+disallow: /views/
